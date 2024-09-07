@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ben-d-g
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning: Ruby On Rails!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The average horse can produce 14.9 horsepower
 
